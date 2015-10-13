@@ -137,6 +137,10 @@ public class NewsContentActivity extends AppCompatActivity implements RevealBack
         }
     }
 
+    private void abc(){
+
+    }
+
     @Override
     public void onBackPressed() {
         finish();
